@@ -1,6 +1,6 @@
 # Pure_pursuit_PI
 Pure_pursuit_PI is a trajectory tracking algorithm package for known paths. It uses a combination of inertial navigation and manual driving to obtain path points. The offline trajectory is then tracked using Pure_pursuit_PI. This code has been successfully tested on an autonomous formula racing car using ROS and C++.
-## 依赖关系
+## Dependency Relationship
 * Ubuntu (18.04 test)
 * ROS (Melodic)
 * Common: Specialized message package translation from Chinese to English
