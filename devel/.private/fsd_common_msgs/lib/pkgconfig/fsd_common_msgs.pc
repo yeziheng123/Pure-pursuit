@@ -1,0 +1,8 @@
+prefix=/home/yeziheng/PP_car_PI/devel/.private/fsd_common_msgs
+
+Name: fsd_common_msgs
+Description: Description of fsd_common_msgs
+Version: 0.0.0
+Cflags: -I/home/yeziheng/PP_car_PI/devel/.private/fsd_common_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs geometry_msgs

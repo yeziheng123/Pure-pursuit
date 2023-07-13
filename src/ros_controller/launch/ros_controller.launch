@@ -1,0 +1,7 @@
+<launch>
+  
+  <!-- 启动mynode节点 -->
+  <include file="$(find gps_to_rviz)/launch/gps_path.launch"/>
+  <node name="ros_controller" pkg="ros_controller" type="ros_controller" output="screen" />
+   <node name="PP_car" pkg="PP_car" type="PP_car" output="screen" />
+</launch>

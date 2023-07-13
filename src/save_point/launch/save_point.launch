@@ -1,0 +1,5 @@
+<launch>
+    <include file="$(find gps_to_rviz)/launch/gps_path.launch"/>
+    <node name="control_node" pkg="save_point" type="save_point" output="screen">
+    </node>
+</launch>

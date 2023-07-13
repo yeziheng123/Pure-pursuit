@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yeziheng/PP_car_PI/devel/.private/gps_to_rviz/setup.sh

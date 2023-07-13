@@ -1,0 +1,8 @@
+prefix=/home/yeziheng/PP_car_PI/install
+
+Name: save_point
+Description: Description of save_point
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs nav_msgs

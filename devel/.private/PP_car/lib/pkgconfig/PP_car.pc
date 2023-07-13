@@ -1,0 +1,8 @@
+prefix=/home/yeziheng/PP_car_PI/devel/.private/PP_car
+
+Name: PP_car
+Description: Description of PP_car
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs nav_msgs

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target PP_car[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/PP_car.dir/src/pp.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/yeziheng/PP_car_PI/devel/.private/PP_car/lib/PP_car/PP_car[0m
+[100%] Built target PP_car

@@ -1,0 +1,8 @@
+prefix=/home/yeziheng/PP_car_PI/devel/.private/gps_to_rviz
+
+Name: gps_to_rviz
+Description: Description of gps_to_rviz
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

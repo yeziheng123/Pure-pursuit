@@ -1,0 +1,7 @@
+<launch>
+    <node name="gps_to_rviz" pkg="gps_to_rviz" type="gps_to_rviz" output="screen" /> 
+    <node pkg="rviz" type="rviz" name="rviz" output="screen" 
+      args="-d $(find gps_to_rviz)/rviz/default.rviz" required="true">
+    </node>
+
+</launch>
